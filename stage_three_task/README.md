@@ -35,6 +35,7 @@ A mobile application built with Flutter that allows users to view a list of coun
 
 ## Getting Started
 
+Ensure you have a stable internet connection
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
